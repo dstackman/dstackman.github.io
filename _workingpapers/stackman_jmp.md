@@ -1,7 +1,7 @@
 ---
 title: "Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight"
 collection: workingpapers
-permalink: /_workingpapers/stackman_jmp
+permalink: /workingpapers/stackman_jmp
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-11-15
 venue: #'Journal 1'
