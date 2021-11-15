@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "stackman_headshot.jpg.png"
+  avatar           : "stackman_headshot.jpg"
   bio              : "PhD candidate in economics at NYU Stern"
   location         : "New York, NY"
   employer         :
