@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dstackman"
+  github           : #"dstackman"
   google_plus      :
   keybase          :
   instagram        :
@@ -180,12 +180,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults
