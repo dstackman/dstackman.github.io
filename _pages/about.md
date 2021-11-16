@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+PhD candidate in economics at NYU Stern
+----------------------------------------
 I am on the 2021-2022 job market and will be available for interviews
 
 Research Areas
-------
+----------------------------------------
 Industrial Organization, Real Estate, Finance, Urban
 
 Job Market Paper
-------
+----------------------------------------
 [Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight](https://dstackman.github.io/files/stackman_jmp.pdf)
 
 
