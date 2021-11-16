@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Main"
+title                    : "Daniel Stackman"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Daniel Stackman" #&name "Your Name"
 description              : &description "personal description"
 url                      : https://dstackman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
