@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Stackman"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "stackman_headshot.jpg"
-  bio              : "PhD candidate in economics at NYU Stern"
+  bio              : "Daniel Stackman"
   location         : "New York, NY"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
