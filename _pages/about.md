@@ -10,7 +10,6 @@ redirect_from:
 
 PhD candidate in economics at NYU Stern
 ----------------------------------------
-I am on the 2021-2022 job market and will be available for interviews
 
 Research Areas
 ----------------------------------------
