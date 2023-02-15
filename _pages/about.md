@@ -22,6 +22,6 @@ Job Market Paper
 
 CV
 ------
-[Click here for a copy of my CV](https://dstackman.github.io/files/stackman_cv.pdf)
+Click [here](https://dstackman.github.io/files/stackman_cv.pdf) for a copy of my CV
 
 
