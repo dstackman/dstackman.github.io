@@ -17,7 +17,7 @@ I am on the 2022-2023 job market.
 
 Job Market Paper
 ----------------------------------------
-[Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight](https://dstackman.github.io/files/stackman_jmp.pdf) ([with Erica Moszkowski](https://www.ericamoszkowski.com/home))
+[Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight](https://dstackman.github.io/files/stackman_jmp.pdf) (with [Erica Moszkowski](https://www.ericamoszkowski.com/home))
 
 
 CV
