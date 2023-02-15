@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ----------------------------------------
-I am a doctoral candidate in economics Phd program at New York University's Stern School of Business. My research mainly focuses on industrial organization, real estate and urban economics, and finance. I am grateful to have my research supported by the NYU Stern's Center for Global Economics and Business, and the NYU Stern Center for Sustainable Business.
+I am a doctoral candidate in economics Phd program at New York University's Stern School of Business. My research mainly focuses on industrial organization, real estate and urban economics, and finance. I am grateful to have my research supported by NYU Stern's Center for Global Economics and Business, and the NYU Stern Center for Sustainable Business.
 
 I am on the 2022-2023 job market. 
 
