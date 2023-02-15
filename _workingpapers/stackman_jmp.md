@@ -1,5 +1,5 @@
 ---
-title: "Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight" (with Erica Moszkowski)
+title: "Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight"
 collection: workingpapers
 permalink: /workingpapers/stackman_jmp_draft
 excerpt:
