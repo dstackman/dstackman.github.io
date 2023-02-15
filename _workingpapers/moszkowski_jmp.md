@@ -1,5 +1,5 @@
 ---
-title: ""Option Value and Storefront Vacancy in New York City""
+title: "Option Value and Storefront Vacancy in New York City"
 collection: workingpapers
 permalink: <!-- /workingpapers/moszkowski_jmp -->
 excerpt:
