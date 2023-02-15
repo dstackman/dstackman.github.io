@@ -10,5 +10,6 @@ citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal
 ---
 
 with [Erica Moskowski](https://www.ericamoszkowski.com/research)
+
 [Download paper here](https://dstackman.github.io/files/stackman_jmp_draft.pdf)
 
