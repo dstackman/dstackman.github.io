@@ -1,7 +1,7 @@
 ---
 title: ""Option Value and Storefront Vacancy in New York City""
 collection: workingpapers
-permalink: /workingpapers/moszkowski_jmp
+permalink: <!-- /workingpapers/moszkowski_jmp -->
 excerpt:
 date: 
 venue: 
