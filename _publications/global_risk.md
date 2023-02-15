@@ -12,4 +12,4 @@ citation: 'Adrian, Tobias, Stackman, Daniel, and Vogt, Erik. (2019). &quot; Glob
 
 [Download paper here](https://www.imf.org/~/media/Files/Conferences/2017-annual-research-conference/adrian-s6.ashx)
 
-Recommended citation: “Global Pricing of Risk and Stabilization Policies,” with Tobias Adrian and Erik Vogt. IMF Economic Review 67(1). February 2019.
+<!--Recommended citation: “Global Pricing of Risk and Stabilization Policies,” with Tobias Adrian and Erik Vogt. IMF Economic Review 67(1). February 2019.-->
