@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Please click [here](https://dstackman.github.io/files/stackman_cv.pdf) for a copy of my CV
 
 <!--
+{% include base_path %}
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
