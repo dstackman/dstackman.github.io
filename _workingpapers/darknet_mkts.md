@@ -1,4 +1,3 @@
-
 ---
 title: "Learning Darknet Markets"
 collection: workingpapers
