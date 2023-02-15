@@ -2,7 +2,7 @@
 
 title: "Global Pricing of Risk and Stabilization Policies"
 collection: publications
-permalink: <!--/publication/global_risk.md-->
+permalink: /publication/global_risk
 excerpt: ''
 date: 2019-02-01
 venue: 'IMF Economic Review'
