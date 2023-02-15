@@ -7,7 +7,7 @@ excerpt: ''
 date: February 2019
 venue: 'IMF Economic Review'
 paperurl: 'https://www.imf.org/~/media/Files/Conferences/2017-annual-research-conference/adrian-s6.ashx'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Adrian, Tobias, Stackman, Daniel, and Vogt, Erik. (2019). &quot; Global Pricing of Risk and Stabilization Policies.&quot; <i>IMF Economic Review 1</i>. 67(1).'
 ---
 
 [Download paper here](https://www.imf.org/~/media/Files/Conferences/2017-annual-research-conference/adrian-s6.ashx)
