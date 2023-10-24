@@ -10,15 +10,9 @@ redirect_from:
 
 About me
 ----------------------------------------
-I am a doctoral candidate in economics Phd program at New York University's Stern School of Business. My research mainly focuses on industrial organization, real estate and urban economics, and finance. I am grateful to have my research supported by NYU Stern's Center for Global Economics and Business, and the NYU Stern Center for Sustainable Business.
+I am an economist specializing in industrial organization. My research focuses on the intersection of industrial organization with urban economics, real estate, and finance. Since summer 2023, I have been working as an antitrust economist in the Bureau of Economics at the Federal Trade Commission. 
 
-I am on the 2022-2023 job market. 
-
-
-Job Market Paper
-----------------------------------------
-[Bleaker on Broadway: The Contractual Origins of High-Rent Urban Blight](https://dstackman.github.io/files/stackman_jmp_draft.pdf) (with [Erica Moszkowski](https://www.ericamoszkowski.com/home))
-
+I earned my PhD in Economics from New York University's Stern School of Business in spring 2023. My dissertation focused on explaining the rise and persistance of storefront vacancies in high-end commercial corridors in New York City. I am grateful to have my research supported by NYU Stern's Center for Global Economics and Business, and the NYU Stern Center for Sustainable Business.
 
 CV
 ------
